@@ -1,0 +1,7 @@
+MINIDB|1.0
+SCHEMA|id:INT|name:STRING|version:STRING|pk:id
+DATA|1|model_1|v1.0
+DATA|2|model_2|v2.0
+DATA|3|model_3|v3.0
+DATA|4|model_4|v4.0
+DATA|5|model_5|v5.0

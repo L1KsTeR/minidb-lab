@@ -1,0 +1,4 @@
+MINIDB|1.0
+TABLEdatasets|id:INT|name:STRING|task:STRING|size:INT|pk:id
+TABLEmodels|id:INT|name:STRING|version:STRING|pk:id
+TABLEexperiments|id:INT|dataset_id:INT|model_id:INT|accuracy:FLOAT|status:STRING|pk:id

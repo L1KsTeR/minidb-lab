@@ -1,0 +1,7 @@
+MINIDB|1.0
+SCHEMA|id:INT|name:STRING|task:STRING|size:INT|pk:id
+DATA|1|dataset_1|classification|1000
+DATA|2|dataset_2|classification|2000
+DATA|3|dataset_3|classification|3000
+DATA|4|dataset_4|classification|4000
+DATA|5|dataset_5|classification|5000
